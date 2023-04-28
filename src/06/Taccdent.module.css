@@ -1,0 +1,19 @@
+.bt1 {
+    background-color: brown;
+    border: 1px brown solid;
+}
+
+table {
+    margin-top: 50px;
+}
+.sp1 {
+    font-size: small;   
+    font-weight: bold;  
+    display: inline-flex; 
+    justify-content: right;
+    margin-right: 10px;
+}
+
+.sp2 {
+    color: brown;  
+}

@@ -37,6 +37,10 @@
   }
 }
 
-article {
-  text-align: center;
+
+.tdsale {
+  display: inline-flex;
+  justify-content: right;
+  align-items: center;
+  width: 80%;
 }

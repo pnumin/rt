@@ -1,0 +1,17 @@
+thead {
+    background-color:darkblue;
+    
+}
+thead  th {
+    color: white;
+    font-weight: bold;
+}
+tfoot {
+    background-color: brown;
+    
+}
+
+.tfootTd {
+    color: white;
+    font-weight: bold;
+}
